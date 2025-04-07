@@ -1,0 +1,6 @@
+[submodule "web-stacks-projects/massage-therapy-web-site_MERN"]
+	path = web-stacks-projects/massage-therapy-web-site_MERN
+	url = https://github.com/lhvalenzu/massage-therapy-web-site_MERN.git
+[submodule "web-stacks-projects/poems-web-site_frontend-HTML-CSS-JavaScript_backend-Node.js-Express"]
+	path = web-stacks-projects/poems-web-site_frontend-HTML-CSS-JavaScript_backend-Node.js-Express
+	url = https://github.com/lhvalenzu/poems-web-site_frontend-HTML-CSS-JavaScript_backend-Node.js-Express.git
